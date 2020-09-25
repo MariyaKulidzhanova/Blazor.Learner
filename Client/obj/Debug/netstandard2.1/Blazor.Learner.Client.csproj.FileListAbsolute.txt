@@ -221,7 +221,6 @@ C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integ
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
-C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\0bJxZGOXlCOsiGdeT66LSW1UUM_S8_RohtofPkawiaA=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash
@@ -236,7 +235,6 @@ C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integ
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\4c7zE587i1DMk8YlJN_w1sj7AjgAWMb9RMems9stWXs=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -374,6 +372,16 @@ C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\Razor
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\Razor\Shared\Developer\Edit.razor.g.cs
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\Razor\Shared\Developer\FetchData.razor.g.cs
 C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\Razor\Shared\Developer\Form.razor.g.cs
-C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\SVzrI3cWbu7xKO50HRAXpZLKGvAAULnggvvFJzLIIOI=.hash
-C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\vp9JzIbA3CnawiIiqT55oIKCMEVUuo5JuzZR0N4jTA8=.hash
-C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\Fo4qfxP-7n5EYhMtMyaMTPGosxkPZqNRRNnQ9y6wrKY=.hash
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\_t0RTUHaPTzavd2X0ccdIrIWhUbjLratKPAQW9SMBAA=.hash
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\TTg82KOHUvK2jQYpM83f9OhTXRQs7FJt77P3MtIsjFw=.hash
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Company\FetchData.razor.g.cs
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\Razor\Shared\Company\FetchData.razor.g.cs
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Company\Form.razor.g.cs
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\Razor\Shared\Company\Form.razor.g.cs
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Company\Create.razor.g.cs
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\Razor\Shared\Company\Create.razor.g.cs
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Company\Edit.razor.g.cs
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\Razor\Shared\Company\Edit.razor.g.cs
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\7ngneSYNq5Jizf6dz9xkyCY5wGbH_XizdMnn_gxevuc=.hash
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\Ne8FOVgWd708iWSbKJHOG-0J7TxV8rfxFRzzMVwvf6Y=.hash
+C:\Users\adam\source\Intera\Blazor.Learner\Client\obj\Debug\netstandard2.1\integrity\1nkiCnTie7qBOsuoYeueL6ii7KYVxUmJ_D3Kd8ZpLZk=.hash
