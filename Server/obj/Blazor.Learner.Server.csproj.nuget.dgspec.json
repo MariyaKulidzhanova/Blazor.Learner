@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Server\\Blazor.Learner.Server.csproj": {}
+    "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Server\\Blazor.Learner.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Client\\Blazor.Learner.Client.csproj": {
+    "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Client\\Blazor.Learner.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Client\\Blazor.Learner.Client.csproj",
+        "projectUniqueName": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Client\\Blazor.Learner.Client.csproj",
         "projectName": "Blazor.Learner.Client",
-        "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Client\\Blazor.Learner.Client.csproj",
+        "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Client\\Blazor.Learner.Client.csproj",
         "packagesPath": "C:\\Users\\adam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Client\\obj\\",
+        "outputPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj": {
-                "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj"
+              "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Shared\\Blazor.Learner.Shared.csproj": {
+                "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Shared\\Blazor.Learner.Shared.csproj"
               }
             }
           }
@@ -42,6 +42,10 @@
       "frameworks": {
         "netstandard2.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[3.2.1, )"
@@ -58,7 +62,7 @@
             },
             "System.Net.Http.Json": {
               "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[3.2.1, )"
             }
           },
           "imports": [
@@ -80,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Server\\Blazor.Learner.Server.csproj": {
+    "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Server\\Blazor.Learner.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Server\\Blazor.Learner.Server.csproj",
+        "projectUniqueName": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Server\\Blazor.Learner.Server.csproj",
         "projectName": "Blazor.Learner.Server",
-        "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Server\\Blazor.Learner.Server.csproj",
+        "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Server\\Blazor.Learner.Server.csproj",
         "packagesPath": "C:\\Users\\adam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Server\\obj\\",
+        "outputPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,11 +107,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Client\\Blazor.Learner.Client.csproj": {
-                "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Client\\Blazor.Learner.Client.csproj"
+              "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Client\\Blazor.Learner.Client.csproj": {
+                "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Client\\Blazor.Learner.Client.csproj"
               },
-              "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj": {
-                "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj"
+              "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Shared\\Blazor.Learner.Shared.csproj": {
+                "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Shared\\Blazor.Learner.Shared.csproj"
               }
             }
           }
@@ -124,6 +128,14 @@
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.8, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -168,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj": {
+    "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Shared\\Blazor.Learner.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Shared\\Blazor.Learner.Shared.csproj",
         "projectName": "Blazor.Learner.Shared",
-        "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj",
+        "projectPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Shared\\Blazor.Learner.Shared.csproj",
         "packagesPath": "C:\\Users\\adam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -201,6 +213,12 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -8,6 +8,9 @@ using Microsoft.Extensions.Hosting;
 using System.Linq;
 using Blazor.Learner.Server.Data;
 using Microsoft.EntityFrameworkCore;
+using Blazor.Learner.Server.Models;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
 
 namespace Blazor.Learner.Server
 {
@@ -25,7 +28,17 @@ namespace Blazor.Learner.Server
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-
+            services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDBContext>();
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.Cookie.HttpOnly = false;
+                options.Events.OnRedirectToLogin = context =>
+                {
+                    context.Response.StatusCode = 401;
+                    return Task.CompletedTask;
+                };
+            });
+            services.AddControllers().AddNewtonsoftJson();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }
@@ -50,6 +63,8 @@ namespace Blazor.Learner.Server
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {

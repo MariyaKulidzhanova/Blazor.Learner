@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\adam\source\Intera\Blazor.Learner\Client\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\adam\source\Intera\Blazor.Learner\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Client\bin\Debug\netstandard2.1\wwwroot\" />
 </StaticWebAssets>

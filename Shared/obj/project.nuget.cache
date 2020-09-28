@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nLqFGfu3jBd/MYVJRK73RGC/jX7eQye/fMchUrb3Mag0uFK7bAno4TN/ZyTVzmbkYLoyIpmwFwV72v2a/hgZ4w==",
+  "dgSpecHash": "GrzwpL7J9QA04Ip0jQObcCdv0zp6kwIDI010WiiEmlY2cXn31GXyXZdh09rRFT3klP/F4QsORC6mbbSGtfoRaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\adam\\source\\Intera\\Blazor.Learner wirh authentication\\Shared\\Blazor.Learner.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adam\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

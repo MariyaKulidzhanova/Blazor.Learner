@@ -7,3 +7,12 @@ C:\Users\adam\source\Intera\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazo
 C:\Users\adam\source\Intera\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.csproj.CoreCompileInputs.cache
 C:\Users\adam\source\Intera\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.dll
 C:\Users\adam\source\Intera\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.pdb
+C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Shared\bin\Debug\netstandard2.1\Blazor.Learner.Shared.deps.json
+C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Shared\bin\Debug\netstandard2.1\Blazor.Learner.Shared.dll
+C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Shared\bin\Debug\netstandard2.1\Blazor.Learner.Shared.pdb
+C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.csprojAssemblyReference.cache
+C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.AssemblyInfoInputs.cache
+C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.AssemblyInfo.cs
+C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.dll
+C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.pdb
+C:\Users\adam\source\Intera\Blazor.Learner wirh authentication\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.csproj.CoreCompileInputs.cache
